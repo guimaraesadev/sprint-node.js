@@ -9,19 +9,19 @@
 
 <p align="center">Requisitos:</p>
 
-- [ X ] Vamos usar o Node para montar um código que vai receber uma lista de propriedades de CSS (ex: background-color, font-size,
+- [X] Vamos usar o Node para montar um código que vai receber uma lista de propriedades de CSS (ex: background-color, font-size,
 text-align) e vai devolver essa lista ordenada de A-Z. <br>
-- [ X ] Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar <br>
-- [ X ] O código deve rodar em um laço que vai receber propriedades até
+- [X] Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar <br>
+- [X] O código deve rodar em um laço que vai receber propriedades até
 a pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser
 impresso no terminal a lista das propriedades ordenadas de A-Z
 uma em cada linha.
 
 <p align="center">Tecnologias:</p>
 
-- [ X ] Javascript <br>
-- [ X ] Node.js <br>
-- [ X ] NPM <br>
-- [ X ] biblioteca: 'promp-sync' 
+- [X] Javascript <br>
+- [X] Node.js <br>
+- [X] NPM <br>
+- [X] biblioteca: 'promp-sync' 
 
 
