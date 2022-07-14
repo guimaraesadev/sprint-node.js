@@ -38,12 +38,4 @@ A biblioteca 'prompt-sync' é um *prompt* de sincronização para **Node.js**, p
 
 A documentação da biblioteca: [NPM: prompt-sync](https://www.npmjs.com/package/prompt-sync)
 
-<br>
 
-<p align="center">Finish.</p>
-
-<div align="center">
-
-<img src="./src/assets/image/coffe-girl.svg" alt="" width="300px"> 
-
-</div>
